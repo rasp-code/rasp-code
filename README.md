@@ -27,4 +27,4 @@ Git, Docker, NodeJS, VsCode
 ## Contact me
 
  - mail: ambroise34.pro@gmail.com
- - linkedin: https://www.linkedin.com/in/ambroise-durst-2a334a241
+ - linkedin: https://www.linkedin.com/in/ambroisedurst
